@@ -88,6 +88,7 @@ li {
     position: relative;
     display: right;
     color: white;
+    right: 0;
 }
 
 .hamburger-icon {
@@ -310,7 +311,7 @@ section {
     width: 100%;
     text-align: right;
     background-color: black;
-    top: 0;
+
 }
 
 .section_text_p1 {
